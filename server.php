@@ -23,3 +23,4 @@ require_once __DIR__.'/public/index.php';
 //added for test-branch
 //my comment for myplace2100
 //comment from siteground
+//new 19-8-20
